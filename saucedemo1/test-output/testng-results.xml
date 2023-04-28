@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-21T14:57:05 EDT" name="Default suite" finished-at="2023-04-21T14:57:12 EDT" duration-ms="6576">
+    <groups>
+    </groups>
+    <test started-at="2023-04-21T14:57:05 EDT" name="Default test" finished-at="2023-04-21T14:57:12 EDT" duration-ms="6576">
+      <class name="demosauce.testscripts.ScenarioFour">
+        <test-method is-config="true" signature="buyProduct()[pri:0, instance:demosauce.testscripts.ScenarioFour@f6efaab]" started-at="2023-04-21T14:57:05 EDT" name="buyProduct" finished-at="2023-04-21T14:57:10 EDT" duration-ms="5488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buyProduct -->
+        <test-method signature="varifySccessMsg()[pri:0, instance:demosauce.testscripts.ScenarioFour@f6efaab]" started-at="2023-04-21T14:57:10 EDT" name="varifySccessMsg" finished-at="2023-04-21T14:57:11 EDT" duration-ms="869" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varifySccessMsg -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:demosauce.testscripts.ScenarioFour@f6efaab]" started-at="2023-04-21T14:57:11 EDT" name="closeBrowser" finished-at="2023-04-21T14:57:12 EDT" duration-ms="184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- demosauce.testscripts.ScenarioFour -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
